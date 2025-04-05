@@ -8,7 +8,7 @@ namespace TechnoIntellect
 {
     internal class CsvReader
     {
-        private string path = "file.csv";
+        private string path = "airports.dat";
     
         public string[] ParseCSV(string csv)
         {
